@@ -1,6 +1,6 @@
 # campaignsList
 
-![assignmentScreenShot](https://user-images.githubusercontent.com/15338471/161941814-de56981e-2ece-46e9-a016-b0acda5a441c.png)
+![campaignListScreenshot](https://user-images.githubusercontent.com/15338471/168260397-19af2482-02ee-4fad-8ca5-10c481664eca.png)
 
 ## Run
 
