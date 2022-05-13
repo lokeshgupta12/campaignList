@@ -1,0 +1,9 @@
+.search-header {
+  background-color: darkslategray;
+  padding: 10px;
+}
+.closeIcon {
+  position: absolute !important;
+  margin-left: -20px !important;
+  margin-top: 5px !important;
+}

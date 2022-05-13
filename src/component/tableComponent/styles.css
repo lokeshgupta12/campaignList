@@ -1,0 +1,40 @@
+/**
+TableComponent styles goes here
+ */
+.active {
+  background-color: green;
+  display: inline-block;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  border: 1px solid #000;
+  margin-right: 10px;
+  color: #fff;
+  line-height: 50px;
+}
+
+.inActive {
+  background-color: red !important;
+  display: inline-block;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  border: 1px solid #000;
+  margin-right: 10px;
+  color: #fff;
+  line-height: 50px;
+}
+
+.table-header {
+  background-color: darkcyan !important;
+  color: white;
+}
+
+.table td {
+  text-align: left;
+}
+
+.noRecords {
+  font-size: 22px;
+  margin-top: 30px;
+}
